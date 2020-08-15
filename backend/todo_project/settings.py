@@ -30,7 +30,7 @@ INSTALLED_APPS = [
     'corsheaders',
     # Local
     'todos.apps.TodosConfig',
-    'blogpost.apps.BlogpostConfig',
+    'post.apps.PostConfig',
 ]
 
 REST_FRAMEWORK = {
